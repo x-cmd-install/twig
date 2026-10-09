@@ -14,15 +14,15 @@ x install twig
 
 ## 代码洞察
 
-合计: **6,650** 行代码（覆盖前 5 种语言、共 **47** 个文件）。
+合计: **9,427** 行代码（覆盖前 5 种语言、共 **66** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 5,348 | 175 | 441 | 38 |
-| Python | 226 | 1 | 7 | 4 |
-| Css | 219 | 0 | 0 | 1 |
-| Json | 173 | 0 | 0 | 2 |
-| PowerShell | 170 | 12 | 2 | 2 |
+| Rust | 6,026 | 177 | 443 | 46 |
+| Json | 1,499 | 0 | 0 | 7 |
+| Css | 392 | 1 | 0 | 3 |
+| TypeScript | 325 | 5 | 0 | 9 |
+| Tsx | 282 | 8 | 5 | 1 |
 
 ## 源代码
 
@@ -32,8 +32,8 @@ x install twig
 
 ## 发布
 
-- **最新版本**: `v3.1.0` (2026-10-05)
-- **最近提交**: 2026-10-05
+- **最新版本**: `v3.2.0` (2026-10-08)
+- **最近提交**: 2026-10-08
 - **Release 含资产**: 15 个
 
 ## 流行度
@@ -42,38 +42,38 @@ x install twig
 
 ## 累计统计
 
-- **发布数**: 9 · **已合并 PR**: 47 · **开放 PR**: 0 · **已关闭 issue**: 6 · **开放 issue**: 6 · **提交数**: 87
+- **发布数**: 10 · **已合并 PR**: 49 · **开放 PR**: 0 · **已关闭 issue**: 6 · **开放 issue**: 6 · **提交数**: 89
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 1 | 3 | 0 | 0 | 0 | 3 |
-| last60d | 2026-08-09 | 2 | 4 | 0 | 0 | 3 | 52 |
-| 90d | 2026-07-10 | 2 | 4 | 0 | 0 | 4 | 52 |
-| last180d | 2026-04-11 | 2 | 5 | 0 | 0 | 4 | 53 |
-| 360d | 2025-10-13 | 9 | 47 | 0 | 6 | 6 | 84 |
-| last720d | 2024-10-18 | 9 | 47 | 0 | 6 | 6 | 87 |
+| 30d | 2026-09-09 | 2 | 5 | 0 | 0 | 0 | 5 |
+| last60d | 2026-08-10 | 3 | 6 | 0 | 0 | 3 | 54 |
+| 90d | 2026-07-11 | 3 | 6 | 0 | 0 | 4 | 54 |
+| last180d | 2026-04-12 | 3 | 7 | 0 | 0 | 4 | 55 |
+| 360d | 2025-10-14 | 10 | 49 | 0 | 6 | 6 | 86 |
+| last720d | 2024-10-19 | 10 | 49 | 0 | 6 | 6 | 89 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [twig-aarch64-apple-darwin.build.txt](https://github.com/workdone0/twig/releases/download/v3.1.0/twig-aarch64-apple-darwin.build.txt) | 1.0 KiB | `native/darwin/arm64` |
-| [twig-aarch64-apple-darwin.tar.gz](https://github.com/workdone0/twig/releases/download/v3.1.0/twig-aarch64-apple-darwin.tar.gz) | 2.1 MiB | `native/darwin/arm64` |
-| [twig-aarch64-apple-darwin.tar.gz.sha256](https://github.com/workdone0/twig/releases/download/v3.1.0/twig-aarch64-apple-darwin.tar.gz.sha256) | 99 B | `native/darwin/arm64` |
-| [twig-aarch64-unknown-linux-gnu.build.txt](https://github.com/workdone0/twig/releases/download/v3.1.0/twig-aarch64-unknown-linux-gnu.build.txt) | 437 B | `native/linux/arm64/glibc` |
-| [twig-aarch64-unknown-linux-gnu.tar.gz](https://github.com/workdone0/twig/releases/download/v3.1.0/twig-aarch64-unknown-linux-gnu.tar.gz) | 2.1 MiB | `native/linux/arm64/glibc` |
-| [twig-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/workdone0/twig/releases/download/v3.1.0/twig-aarch64-unknown-linux-gnu.tar.gz.sha256) | 104 B | `native/linux/arm64/glibc` |
-| [twig-x86_64-apple-darwin.build.txt](https://github.com/workdone0/twig/releases/download/v3.1.0/twig-x86_64-apple-darwin.build.txt) | 1.0 KiB | `native/darwin/x64` |
-| [twig-x86_64-apple-darwin.tar.gz](https://github.com/workdone0/twig/releases/download/v3.1.0/twig-x86_64-apple-darwin.tar.gz) | 2.2 MiB | `native/darwin/x64` |
-| [twig-x86_64-apple-darwin.tar.gz.sha256](https://github.com/workdone0/twig/releases/download/v3.1.0/twig-x86_64-apple-darwin.tar.gz.sha256) | 98 B | `native/darwin/x64` |
-| [twig-x86_64-pc-windows-msvc.build.txt](https://github.com/workdone0/twig/releases/download/v3.1.0/twig-x86_64-pc-windows-msvc.build.txt) | 295 B | `native/win/x64` |
-| [twig-x86_64-pc-windows-msvc.tar.gz](https://github.com/workdone0/twig/releases/download/v3.1.0/twig-x86_64-pc-windows-msvc.tar.gz) | 2.2 MiB | `native/win/x64` |
-| [twig-x86_64-pc-windows-msvc.tar.gz.sha256](https://github.com/workdone0/twig/releases/download/v3.1.0/twig-x86_64-pc-windows-msvc.tar.gz.sha256) | 101 B | `native/win/x64` |
-| [twig-x86_64-unknown-linux-gnu.build.txt](https://github.com/workdone0/twig/releases/download/v3.1.0/twig-x86_64-unknown-linux-gnu.build.txt) | 727 B | `native/linux/x64/glibc` |
-| [twig-x86_64-unknown-linux-gnu.tar.gz](https://github.com/workdone0/twig/releases/download/v3.1.0/twig-x86_64-unknown-linux-gnu.tar.gz) | 2.4 MiB | `native/linux/x64/glibc` |
-| [twig-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/workdone0/twig/releases/download/v3.1.0/twig-x86_64-unknown-linux-gnu.tar.gz.sha256) | 103 B | `native/linux/x64/glibc` |
+| [twig-aarch64-apple-darwin.build.txt](https://github.com/workdone0/twig/releases/download/v3.2.0/twig-aarch64-apple-darwin.build.txt) | 1.0 KiB | `native/darwin/arm64` |
+| [twig-aarch64-apple-darwin.tar.gz](https://github.com/workdone0/twig/releases/download/v3.2.0/twig-aarch64-apple-darwin.tar.gz) | 2.1 MiB | `native/darwin/arm64` |
+| [twig-aarch64-apple-darwin.tar.gz.sha256](https://github.com/workdone0/twig/releases/download/v3.2.0/twig-aarch64-apple-darwin.tar.gz.sha256) | 99 B | `native/darwin/arm64` |
+| [twig-aarch64-unknown-linux-gnu.build.txt](https://github.com/workdone0/twig/releases/download/v3.2.0/twig-aarch64-unknown-linux-gnu.build.txt) | 437 B | `native/linux/arm64/glibc` |
+| [twig-aarch64-unknown-linux-gnu.tar.gz](https://github.com/workdone0/twig/releases/download/v3.2.0/twig-aarch64-unknown-linux-gnu.tar.gz) | 2.2 MiB | `native/linux/arm64/glibc` |
+| [twig-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/workdone0/twig/releases/download/v3.2.0/twig-aarch64-unknown-linux-gnu.tar.gz.sha256) | 104 B | `native/linux/arm64/glibc` |
+| [twig-x86_64-apple-darwin.build.txt](https://github.com/workdone0/twig/releases/download/v3.2.0/twig-x86_64-apple-darwin.build.txt) | 1.0 KiB | `native/darwin/x64` |
+| [twig-x86_64-apple-darwin.tar.gz](https://github.com/workdone0/twig/releases/download/v3.2.0/twig-x86_64-apple-darwin.tar.gz) | 2.3 MiB | `native/darwin/x64` |
+| [twig-x86_64-apple-darwin.tar.gz.sha256](https://github.com/workdone0/twig/releases/download/v3.2.0/twig-x86_64-apple-darwin.tar.gz.sha256) | 98 B | `native/darwin/x64` |
+| [twig-x86_64-pc-windows-msvc.build.txt](https://github.com/workdone0/twig/releases/download/v3.2.0/twig-x86_64-pc-windows-msvc.build.txt) | 295 B | `native/win/x64` |
+| [twig-x86_64-pc-windows-msvc.tar.gz](https://github.com/workdone0/twig/releases/download/v3.2.0/twig-x86_64-pc-windows-msvc.tar.gz) | 2.2 MiB | `native/win/x64` |
+| [twig-x86_64-pc-windows-msvc.tar.gz.sha256](https://github.com/workdone0/twig/releases/download/v3.2.0/twig-x86_64-pc-windows-msvc.tar.gz.sha256) | 101 B | `native/win/x64` |
+| [twig-x86_64-unknown-linux-gnu.build.txt](https://github.com/workdone0/twig/releases/download/v3.2.0/twig-x86_64-unknown-linux-gnu.build.txt) | 727 B | `native/linux/x64/glibc` |
+| [twig-x86_64-unknown-linux-gnu.tar.gz](https://github.com/workdone0/twig/releases/download/v3.2.0/twig-x86_64-unknown-linux-gnu.tar.gz) | 2.5 MiB | `native/linux/x64/glibc` |
+| [twig-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/workdone0/twig/releases/download/v3.2.0/twig-x86_64-unknown-linux-gnu.tar.gz.sha256) | 103 B | `native/linux/x64/glibc` |
 
 ## 改进这些数据
 
@@ -84,4 +84,4 @@ twig 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261008.yml` · 2026-10-08T05:47:57Z._
+_数据快照: `data/card/261009.yml` · 2026-10-09T05:51:41Z._
