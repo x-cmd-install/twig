@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 2581492,
       "digest": "sha256:2e73d5de575f8da9f93076272ad6f9a4ea66426113a0eb3a775d8d6b39eca413",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-08T17:26:54Z",
       "updated_at": "2026-10-08T17:26:55Z",
       "browser_download_url": "https://github.com/workdone0/twig/releases/download/v3.2.0/twig-x86_64-unknown-linux-gnu.tar.gz"
