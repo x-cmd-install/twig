@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 2581492,
       "digest": "sha256:2e73d5de575f8da9f93076272ad6f9a4ea66426113a0eb3a775d8d6b39eca413",
-      "download_count": 52,
+      "download_count": 68,
       "created_at": "2026-10-08T17:26:54Z",
       "updated_at": "2026-10-08T17:26:55Z",
       "browser_download_url": "https://github.com/workdone0/twig/releases/download/v3.2.0/twig-x86_64-unknown-linux-gnu.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 103,
       "digest": "sha256:1be14f8bafc17dede8967756c87796e2504a05f8d455097e77a03fb3feb906fa",
-      "download_count": 3,
+      "download_count": 21,
       "created_at": "2026-10-08T17:26:54Z",
       "updated_at": "2026-10-08T17:26:54Z",
       "browser_download_url": "https://github.com/workdone0/twig/releases/download/v3.2.0/twig-x86_64-unknown-linux-gnu.tar.gz.sha256"
