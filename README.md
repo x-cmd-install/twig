@@ -48,12 +48,12 @@ Total: **9,427** lines of code across **66** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-15 | 2 | 5 | 0 | 0 | 0 | 5 |
-| 90d | 2026-08-16 | 3 | 6 | 0 | 0 | 0 | 54 |
-| last180d | 2026-05-18 | 3 | 7 | 0 | 0 | 4 | 55 |
-| 360d | 2025-11-19 | 10 | 49 | 0 | 6 | 6 | 86 |
-| last720d | 2024-11-24 | 10 | 49 | 0 | 6 | 6 | 89 |
+| 30d | 2026-10-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-16 | 2 | 5 | 0 | 0 | 0 | 5 |
+| 90d | 2026-08-17 | 3 | 6 | 0 | 0 | 0 | 54 |
+| last180d | 2026-05-19 | 3 | 7 | 0 | 0 | 4 | 54 |
+| 360d | 2025-11-20 | 10 | 49 | 0 | 6 | 6 | 86 |
+| last720d | 2024-11-25 | 10 | 49 | 0 | 6 | 6 | 89 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for twig lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T06:01:36Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T06:04:50Z._
